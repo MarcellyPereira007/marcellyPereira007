@@ -1,6 +1,6 @@
 # <img src="assets/profilebanner.png" width="100%" />
 
-<!-- Badges logoColor=A69758&color=393F31-->
+<!-- Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/marcellypereira" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-393F31?style=for-the-badge&logo=rubysinatra&logoColor=white" />
@@ -25,22 +25,14 @@
 
 <br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h2 align="center"><em>⋆｡𖦹°⭒ Sobre mim ⭒°𖦹｡⋆</em></h2>
-      <p>
-        Olá, me chamo <em><b>Marcelly Pereira</b></em>, sou uma estudante de Ciências da Computação na SPTech School. Na minha faculdade, a prática é fundamental em todos os momentos e vai além da sala de aula. Sou apaixonada por tecnologia e estou sempre em busca de novos desafios para expandir meus conhecimentos. Além disso, gosto de explorar diferentes áreas da computação, como desenvolvimento web e mobile e design.
-      </p>
-    </td>
-    <td width="50%" valign="middle" align="center">
-      <img src="assets/complanta.png" />
-    </td>
-  </tr>
-</table>
+<h2 align="center"><em>⋆｡𖦹°⭒ Sobre mim ⭒°𖦹｡⋆</em></h2>
 
-<br/>
-<br/>
+<img src="assets/complanta.png" width="200" align="right" />
+
+<p>
+  Olá, me chamo <em><b>Marcelly Pereira</b></em>, <br>sou uma estudante de Ciências da Computação na SPTech School. Na minha faculdade, a prática é fundamental em todos os momentos e vai além da sala de aula. Sou apaixonada por tecnologia e estou sempre em busca de novos desafios para expandir meus conhecimentos. Além disso, gosto de explorar diferentes áreas da computação, como desenvolvimento web e mobile e design.
+</p>
+
 
 <h2 align="center"><em>⋆｡𖦹°⭒ Tecnologias que me interesso ⭒°𖦹｡⋆</em> </h2>
 
