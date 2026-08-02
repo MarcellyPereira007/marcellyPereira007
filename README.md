@@ -23,23 +23,21 @@
 
 <img src="assets/pedras.png" width="100%" />
 
-<h2 align="center"><em>⋆｡𖦹°⭒ Sobre mim ⭒°𖦹｡⋆</em></h2>
+<br>
 
-<img src="src/gatinho.gif" width="250" align="right" style="margin-left: 20px;" />
-<br/>
-
-<p>
-Oii,<em><b> sou a Marcelly Pereira </b></em>, uma estudante de Ciências da Computação. Eu gosto de aprender sobre novas tecnologias e cuidar de cada etapa do desenvolvimento de um projeto. Agora estou fazendo alguns projetinhos pessoais pra colocar meus conhecimentos em prática.
-</p>
-
-<br/>
-
-<details>
-<summary>Cursando:</summary>
-<p align="left">
-   <em><b>Ciências da computação na SPTECH</b></em><br/>
-</p>
-</details>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h2 align="center"><em>⋆｡𖦹°⭒ Sobre mim ⭒°𖦹｡⋆</em></h2>
+      <p>
+        Olá, me chamo <em><b>Marcelly Pereira</b></em>, sou uma estudante de Ciências da Computação na SPTech School. Na minha faculdade, a prática é fundamental em todos os momentos e vai além da sala de aula. Sou apaixonada por tecnologia e estou sempre em busca de novos desafios para expandir meus conhecimentos. Além disso, gosto de explorar diferentes áreas da computação, como desenvolvimento web e mobile e design.
+      </p>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <img src="assets/complanta.png" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 <br/>
