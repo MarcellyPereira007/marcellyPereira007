@@ -34,13 +34,13 @@
 <div>
 <h2 align="left"><em>⋆｡𖦹°⭒ Meus interesses e valores na tecnologia ⭒°𖦹｡⋆</em></h2>
 <p>
-  <div align="center">
-<img src="assets/gatouniverso.png" align="right">
+  <div align="right">
+<img src="assets/gatouniverso.png" align="right" height="400">
   </div>
 </div>
 <div>
-  <br>
-<p align="center">
+  <br><br>
+  <p align="center">
   <img src="https://img.shields.io/badge/C%23-4b321b?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Java-1F1815?style=for-the-badge&logo=java&logoColor=white" />
@@ -49,13 +49,9 @@
 
   <img src="https://img.shields.io/badge/HTML5-1F1815?style=for-the-badge&logo=html5&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/CSS3-4b321b?style=for-the-badge&logo=css3&logoColor=white" />
-
   <img src="https://img.shields.io/badge/JavaScript-1F1815?style=for-the-badge&logo=javascript&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Unity-4b321b?style=for-the-badge&logo=unity&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/React-1F1815?style=for-the-badge&logo=react&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Node.js-4b321b?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
@@ -63,33 +59,16 @@
 
   <img src="https://img.shields.io/badge/MySQL-4b321b?style=for-the-badge&logo=mysql&logoColor=white" />
 
-  <img  src="https://img.shields.io/badge/PHP-1F1815?style=for-the-badge&logo=php&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/.NET-4b321b?style=for-the-badge&logo=.net&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Markdown-1F1815?style=for-the-badge&logo=markdown&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Figma-4b321b?style=for-the-badge&logo=figma&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Canva-1F1815?&style=for-the-badge&logo=Canva&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Miro-4b321b?style=for-the-badge&logo=Miro&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Jira-1F1815?style=for-the-badge&logo=Jira&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/n8n-4b321b?style=for-the-badge&logo=n8n&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Notion-1F1815?style=for-the-badge&logo=notion&logoColor=white"/>
   <br><br>
 Sou uma pessoa que possui visão e valores bem definidos para minha carreira. Vejo a educação e tecnologia como ferramentas poderosas para transformação de vidas e redução de barreiras sociais e estou comprometida em contribuir para um mundo mais conectado e inovador. Valorizo a ética e a responsabilidade no uso da tecnologia, buscando sempre soluções que beneficiem a sociedade como um todo.
 </p>
-<br>
-<br>
-  
+<br><br>
 
-
-<br/>
-<br/>
 
 <h2 align="center""> <em> ⋆｡𖦹°⭒ Estatísticas ⭒°𖦹｡⋆ </em> </h2>
 
