@@ -23,19 +23,23 @@
 
 <img src="assets/pedras.png" width="100%" />
 
+<h2 align="left"><em>⋆｡𖦹°⭒ Sobre mim ⭒°𖦹｡⋆</em></h2>
+
+<img src="assets/complanta.png" width="250" align="right" />
 <br>
-
-<h2 align="center"><em>⋆｡𖦹°⭒ Sobre mim ⭒°𖦹｡⋆</em></h2>
-
-<img src="assets/complanta.png" width="200" align="right" />
-
 <p>
-  Olá, me chamo <em><b>Marcelly Pereira</b></em>, <br>sou uma estudante de Ciências da Computação na SPTech School. Na minha faculdade, a prática é fundamental em todos os momentos e vai além da sala de aula. Sou apaixonada por tecnologia e estou sempre em busca de novos desafios para expandir meus conhecimentos. Além disso, gosto de explorar diferentes áreas da computação, como desenvolvimento web e mobile e design.
+  Olá, me chamo <em><b>Marcelly Pereira</b></em>, sou uma estudante de Ciências da Computação na SPTech School. Na minha faculdade, a prática é fundamental em todos os momentos e vai além da sala de aula. Sou apaixonada por tecnologia e estou sempre em busca de novos desafios para expandir meus conhecimentos.<br>Além disso, gosto de explorar diferentes áreas da computação, como desenvolvimento web e mobile e design.
 </p>
 
-
-<h2 align="center"><em>⋆｡𖦹°⭒ Tecnologias que me interesso ⭒°𖦹｡⋆</em> </h2>
-
+<div>
+<h2 align="left"><em>⋆｡𖦹°⭒ Meus interesses e valores na tecnologia ⭒°𖦹｡⋆</em></h2>
+<p>
+  <div align="center">
+<img src="assets/gatouniverso.png" align="right">
+  </div>
+</div>
+<div>
+  <br>
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-4b321b?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
@@ -76,7 +80,13 @@
   <img src="https://img.shields.io/badge/n8n-4b321b?style=for-the-badge&logo=n8n&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Notion-1F1815?style=for-the-badge&logo=notion&logoColor=white"/>
+  <br><br>
+Sou uma pessoa que possui visão e valores bem definidos para minha carreira. Vejo a educação e tecnologia como ferramentas poderosas para transformação de vidas e redução de barreiras sociais e estou comprometida em contribuir para um mundo mais conectado e inovador. Valorizo a ética e a responsabilidade no uso da tecnologia, buscando sempre soluções que beneficiem a sociedade como um todo.
 </p>
+<br>
+<br>
+  
+
 
 <br/>
 <br/>
