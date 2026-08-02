@@ -37,6 +37,7 @@
 <p>
   <div align="right">
 <img src="assets/gatouniverso.png" align="right" height="400">
+    <br>
   </div>
 </div>
 <div>
