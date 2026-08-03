@@ -73,16 +73,19 @@ Sou uma pessoa que possui visão e valores bem definidos para minha carreira. <b
 
 <h2 align="left"><em> ⋆｡𖦹°⭒ Estatísticas ⭒°𖦹｡⋆</em></h2>
 
-<div align="right">
-
-  ![](https://github-readme-activity-graph.vercel.app/graph?username=marcellypereira007&bg_color=0D1116&color=5F531D&line=5F531D&point=393F31&area=true&hide_border=true&area_color=393F31)
+<div align="center">
+  <!-- Gráfico de atividade -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcellypereira007&bg_color=0D1116&color=5F531D&line=5F531D&point=393F31&area=true&hide_border=true&area_color=393F31" width="100%" />
 </div>
 
-<div align = "center"> 
+<br/>
 
-
-
-
+<div align="center"> 
+  <img src="https://github-stats-extended.vercel.app/api?username=MarcellyPereira007&rank_icon=github&custom_title=Estatísticas&include_all_commits=true&bg_color=0D1116&text_color=393F31&title_color=5F531D&hide_border=true" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MarcellyPereira007&bg_color=0D1116&text_color=393F31&title_color=5F531D&hide_border=true" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=MarcellyPereira007&repo=marcellypereira007%2Fwunderkammer&bg_color=0D1116&text_color=393F31&title_color=5F531D&hide_border=true" height="180" />
 </div>
 
 <br/>
