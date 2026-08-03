@@ -81,7 +81,9 @@ Sou uma pessoa que possui visão e valores bem definidos para minha carreira. <b
 <div align="center"> 
   <img src="https://github-stats-extended.vercel.app/api?username=MarcellyPereira007&rank_icon=github&custom_title=Estatísticas&include_all_commits=true&bg_color=0D1116&text_color=393F31&title_color=5F531D&hide_border=true" height="100" />
   &nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=MarcellyPereira007&repo=marcellypereira007%2Fwunderkammer&bg_color=0D1116&text_color=393F31&title_color=5F531D&hide_border=true" height="100" />
+  <a href="https://github.com/MarcellyPereira007/wunderkammer" target="_blank">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=MarcellyPereira007&repo=marcellypereira007%2Fwunderkammer&bg_color=0D1116&text_color=393F31&title_color=5F531D&hide_border=true" height="100"/>
+  </a>
   &nbsp;
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MarcellyPereira007&layout=compact&bg_color=0D1116&text_color=393F31&title_color=5F531D&hide_border=true" height="100" />
 </div>
