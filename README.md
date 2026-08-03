@@ -88,6 +88,14 @@ Sou uma pessoa que possui visão e valores bem definidos para minha carreira. <b
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MarcellyPereira007&layout=compact&bg_color=0D1116&text_color=393F31&title_color=5F531D&hide_border=true" height="100" />
 </div>
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcellyPereira007/MarcellyPereira007/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcellyPereira007/MarcellyPereira007/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcellyPereira007/MarcellyPereira007/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
 <br/>
 <br/>
 
